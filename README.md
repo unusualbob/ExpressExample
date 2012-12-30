@@ -22,6 +22,7 @@ Now we need to install the node modules this project requires, since I've setup 
 This automatically installs the requirements for the project.  
 
 Next we're going to try running the project, this can be done by running `node app.js` unless you are on a system that blocks access to port 80, in that case use sudo.
+
 ---
 The server should now be running, all you need to do is hit this box on a web browser and you can see the example pages. These are:
 *  / (home)
